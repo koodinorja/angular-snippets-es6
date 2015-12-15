@@ -3,7 +3,7 @@
 Code snippets for Vs Code
 
 ## Installation
-Launch Command Palette (F1 or CTRL + SHIFT + P or what ever) and type
+Launch Command Palette (F1 or CTRL + SHIFT + P for windows) and type
 'install extension'.
 
 
