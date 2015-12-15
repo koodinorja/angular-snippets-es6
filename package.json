@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^0.10.x"
 	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koodinorja/angular-snippets-es6"
+  },
 	"categories": [
 		"Snippets"
 	],
