@@ -3,7 +3,7 @@
 	"displayName": "ES6-angular-snips",
 	"description": "ES6 style snippets for angular",
 	"version": "0.0.1",
-	"publisher": "koodinorja",
+	"publisher": "kasperkeso",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
