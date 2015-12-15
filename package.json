@@ -1,0 +1,21 @@
+{
+	"name": "es6-angular-snips",
+	"displayName": "ES6-angular-snips",
+	"description": "ES6 style snippets for angular",
+	"version": "0.0.1",
+	"publisher": "koodinorja",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}
