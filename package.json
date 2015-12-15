@@ -2,10 +2,10 @@
 	"name": "es6-angular-snips",
 	"displayName": "Angular ES6 snips",
 	"description": "ES6 style snippets for angular",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "kasperkeso",
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": "^0.10.x"
 	},
 	"categories": [
 		"Snippets"

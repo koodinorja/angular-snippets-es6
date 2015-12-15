@@ -11,3 +11,4 @@ Launch Command Palette (F1 or CTRL + SHIFT + P for windows) and type
 
 * cont→   Creates a controller
 * dir→    Creates a directive
+* metq→   Creates a method that returns a promise
