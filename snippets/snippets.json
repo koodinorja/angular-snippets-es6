@@ -1,11 +1,11 @@
 {
-	"dir": {
+	"directive": {
 		"prefix": "dir",
 		"body": "export function ${1:My}Directive() {\r\n  'ngInject';\r\n\r\n  let directive = {\r\n    scope: true,\r\n    templateUrl: '${2:${1}}.html',\r\n    controller: ${1:My}Controller,\r\n    controllerAs: 'vm'\r\n  };\r\n\r\n  return directive;\r\n}\r\n\r\nexport class ${1:My}Controller {\r\n  constructor(${3:$log}) {\r\n    'ngInject';\r\n\r\n    this.activate();\r\n  }\r\n\r\n  activate() {\r\n    $4\r\n  }\r\n}\r\n",
 		"description": "Basic angular directive skeleton (ES6)",
 		"scope": ""
 	},
-	"cont": {
+	"controller": {
 		"prefix": "cont",
 		"body": "export class ${1:My}Controller {\r\n  constructor(${2:$log}) {\r\n    'ngInject';\r\n\r\n    this.activate();\r\n  }\r\n\r\n  activate() {\r\n    $3\r\n  }\r\n}\r\n\r\n",
 		"description": "Basic angular controller skeleton (ES6)",
